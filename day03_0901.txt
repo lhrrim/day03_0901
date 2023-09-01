@@ -1,0 +1,20 @@
+github로 협업하기
+
+팀장의 역할
+  local git repository 만들기(팀프로젝트 폴더)
+  git init 하여 레포지토리로 만들기
+  원격저장소 생성하여
+  local 과 연결하기
+
+  원격저장소의 settigs > access > collaborators
+  Add people > 팀원 github 계정 추가하기
+
+팀원의 역할
+  1. 메일에서 invite 수락하기
+  2. 팀장의 원격저장소 주소를 복사하여
+  본인 컴퓨터에 git clane 팀장원격저장소주소
+  입력하여 프로젝트 폴더 생성하기
+
+  이후 add, commit, push 하면
+  자동으로 팀장의 원격저장소에 업로드가 된다
+
